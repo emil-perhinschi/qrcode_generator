@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Emil Nicolaie Perhinschi"
+	],
+	"copyright": "Copyright © 2022, Emil Nicolaie Perhinschi",
+	"dependencies": {
+		"qrcode": "~>1.4.0"
+	},
+	"description": "generate qr codes",
+	"license": "BSL-1.0",
+	"name": "qrcode_generator"
+}

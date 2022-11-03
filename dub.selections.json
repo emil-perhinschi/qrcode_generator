@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"dmagick": "0.2.4",
+		"qrcode": "1.4.0"
+	}
+}
