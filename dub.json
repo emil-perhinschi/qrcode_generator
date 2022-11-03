@@ -7,6 +7,6 @@
 		"qrcode": "~>1.4.0"
 	},
 	"description": "generate qr codes",
-	"license": "BSL-1.0",
+	"license": "MIT",
 	"name": "qrcode_generator"
 }
